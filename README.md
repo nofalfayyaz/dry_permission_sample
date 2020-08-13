@@ -1,0 +1,1 @@
+# dry_permission_sample
